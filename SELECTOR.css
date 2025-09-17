@@ -1,7 +1,9 @@
 *{
-    background-color: bisque;
+    background-color: rgb(211, 255, 196);
 }
 
 h1, #PARA1{
-    background-color: black;
+    background-color:darkseagreen;
 }
+
+p, .words{background-color: rgba(54, 176, 54, 0.495);}
